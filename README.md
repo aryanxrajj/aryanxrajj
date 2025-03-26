@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Aryan Raj</h1>
-<h3 align="center">A passionate Java Developer and Cloud Computing Engineer.</h3>
+<h3 align="center">A passionate Java Developer and Cloud Engineer.</h3>
 
 - 🔭 I’m currently working on [System Call Interface](https://github.com/aryanxrajj/User-Friendly-System-Call-Interface-for-Enhanced-Security)
 
