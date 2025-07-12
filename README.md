@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aryan Raj</h1>
 <h3 align="center">A passionate Java Developer and Cloud Engineer.</h3>
 
-- 🔭 I’m currently working on [Spring Boot Api]
+- 🔭 I’m currently working on Spring Boot Api.
 
 - 🌱 I’m currently learning **Kotlin, SpringFrameWork, JDBC, Java**
 
